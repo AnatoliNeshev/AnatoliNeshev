@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnatoliNeshev
-- 👀 I’m interested in  C#  Game Development
+- 👀 I’m interested in  C#   Game Development   
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ..
+- 📫 e-mail: einatouli@gmail.com
 
 <!---
 AnatoliNeshev/AnatoliNeshev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
