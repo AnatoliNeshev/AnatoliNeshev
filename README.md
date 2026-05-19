@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnatoliNeshev
-- 👀 I’m interested in  C#   Game Development   
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ..
+- 👀 I’m interested in creating generative AI agentic workflows
 - 📫 e-mail: einatouli@gmail.com
 
 <!---
